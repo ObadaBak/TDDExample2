@@ -2,7 +2,7 @@ package org.example;
 
 //STUDENT NUMBER: B221202555
 //NAME: OBADA BAKFALOUNI
-//GITHUB REPO ADDRESS: https://github.com/ObadaBak/TDDExample2Odev.git
+//GITHUB REPO ADDRESS: https://github.com/ObadaBak/TDDExample2
 
 
 import org.junit.jupiter.params.ParameterizedTest;
